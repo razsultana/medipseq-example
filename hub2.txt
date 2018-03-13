@@ -1,5 +1,5 @@
 hub MedipSeq
 shortLabel MedipSeq example hub
 longLabel MedipSeq example hub
-genomesFile genomes.txt
+genomesFile genomes2.txt
 email rsultana@hawaii.edu
