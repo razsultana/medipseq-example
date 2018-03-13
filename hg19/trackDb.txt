@@ -4,11 +4,11 @@ shortLabel HCT116 WT reads
 longLabel HCT116 wildtype Medip-seq reads
 type bam 
 
-track hct116_wt_peaks
-bigDataUrl hct116-ctrl_peaks.bed
-shortLabel HCT116 WT peaks
-longLabel Peaks of the wildtype HCT116 Medip-seq
-type bed
+;track hct116_wt_peaks
+;bigDataUrl hct116-ctrl_peaks.bed
+;shortLabel HCT116 WT peaks
+;longLabel Peaks of the wildtype HCT116 Medip-seq
+;type bed
 
 track hct116_dko_reads
 bigDataUrl hct116-dko.bam
@@ -16,9 +16,9 @@ shortLabel HCT116 DKO reads
 longLabel HCT116 DNA-methylase knockout Medip-seq reads
 type bam 
 
-track hct116_dko_peaks
-bigDataUrl hct116-dko_peaks.bed
-shortLabel HCT116DKO peaks
-longLabel Peaks of the DNA-methylase knockout HCT116 Medip-seq
-type bed
+;track hct116_dko_peaks
+;bigDataUrl hct116-dko_peaks.bed
+;shortLabel HCT116DKO peaks
+;longLabel Peaks of the DNA-methylase knockout HCT116 Medip-seq
+;type bed
 
